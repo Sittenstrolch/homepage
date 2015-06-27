@@ -124,6 +124,9 @@ main .welcomeSection .greeting {
 .footerTop {
   text-align: right;
 }
+.aboutMe {
+  padding-bottom: 8rem;
+}
 html {
   height: 100%;
 }
