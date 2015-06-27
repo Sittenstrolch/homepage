@@ -1,0 +1,6 @@
+# Created by .gitignore support plugin (hsz.mobi)
+node_modules
+public/assets/libs
+.idea
+N20-2.0.iml
+companyLinker.iml
